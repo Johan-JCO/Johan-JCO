@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Johan Österberg</h1>
-<h3 align="center">Ninja Wizard Supreme Happiness Engineer</h3>
+<h3 align="center">Full-Stack Developer</h3>
 
 - 🌱 I’m currently learning **LearnDash**
 
-- ⚡ Fun fact **WooCommerce 💧**
+- ⚡ Fun fact **WooCommerce 💖**
 
 
 <h3 align="left">Languages and Tools:</h3>
